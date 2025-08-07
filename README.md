@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá! Eu sou o Guilherme Nascimento</h1>
 
 <p align="center">
-🎓 Estudante de Desenvolvimento de Software Multiplataforma<br>
-📍 Rio de Janeiro - Brasil<br>
+🎓 Estudante de Analise e Desenvolvimento de Sistemas <br>
+📍 São Paulo - Brasil / 19y <br>
 💡 Apaixonado por tecnologia, inovação e soluções inteligentes
 </p>
 
