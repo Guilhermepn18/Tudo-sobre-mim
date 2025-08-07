@@ -1,65 +1,71 @@
-###
+<h1 align="center">👋 Olá! Eu sou o Guilherme Nascimento</h1>
 
-<div align="center">
-  <a href="https://www.instagram.com/gui_pn18" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-nascimento-0a748b363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+<p align="center">
+🎓 Estudante de Desenvolvimento de Software Multiplataforma<br>
+📍 Rio de Janeiro - Brasil<br>
+💡 Apaixonado por tecnologia, inovação e soluções inteligentes
+</p>
 
-###
-<div align="center">
-  <img height="" src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif"  />
-</div>
+---
 
-###
+## 🧠 Sobre mim
 
-<br><br>
+Sou um estudante dedicado da área de tecnologia, sempre buscando evoluir minhas habilidades em desenvolvimento de software e análise de sistemas.  
+Atualmente trabalho com **ERP**, **bancos de dados** e estudo **linguagens de programação** como **C++** e **Python**, além de atuar com **SQL Server** no contexto corporativo.
 
-###
+Gosto de resolver problemas com lógica, clareza e eficiência, sempre aberto a aprender e colaborar.
 
-<h3 align="center">Hi, There! 👋</h3>
+---
 
-###
+## 🛠️ Tecnologias & Ferramentas
 
-<br>
+### 💻 Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<h4 align="center">Hello! My name is Guilherme I'm 19 years old. Currently studying Python, looking to become a web developer.<br>I'm always looking to improve myself with knowledge<br><br><br>"Knowledge is the food of the mind, just as light is for the eyes."<br>– Plato</h4>
+### 🗄️ Banco de Dados
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-###
+### 🧩 Outras Skills
+![ERP](https://img.shields.io/badge/ERP-TOTVS_Linx-FF6D00?style=for-the-badge&logo=enterprise&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<br><br><br>
+---
 
-###
+## 🚀 Projetos em Destaque
 
-<h3 align="center">🛠 Language and tools</h3>
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| **Portfólio Pessoal** | Site para apresentar meus projetos, perfil e contatos. | HTML, CSS, JS |
+| **Em breve...** | Novos projetos em desenvolvimento! | ⚙️ |
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
+## 📈 GitHub Stats
 
-###
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gui-pn&show_icons=true&theme=radical" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-pn&layout=compact&theme=radical" height="180"/>
+</p>
 
-<br>
+---
 
-###
+## 📲 Conecte-se comigo
 
+<p align="center">
+<a href="https://www.linkedin.com/in/guilherme-nascimento-0a748b363" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/gui_pn18" target="_blank">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</p>
+
+---
+
+<h4 align="center">✨ “Não é sobre saber tudo, é sobre estar disposto a aprender sempre.” ✨</h4>
